@@ -11,7 +11,7 @@ The results for our School District dataframe after removing the 9th Grade grade
 	* By removing 9th grade, grades we can see that not much gets affected in the District Summary. at most you can tell that
 		the "overall %" was affected by 0.1% (from 65.1% to 64.9%) while "passing math & reading %" stayed the same only the decimals changed. Please note the image 	attached of the District Summary chart
 		
-	* District_summary_changes](Resources/District_summary_changes.PNG)
+	* District_summary_changes(Resources/District_summary_changes.PNG)
 		
 - How is the school summary affected?
 	* The school summarry is only affected in the "Thomas High School" row. we can see that removing the 9th grader grades
