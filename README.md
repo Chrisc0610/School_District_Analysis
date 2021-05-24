@@ -11,13 +11,15 @@ The results for our School District dataframe after removing the 9th Grade grade
 	* By removing 9th grade, grades we can see that not much gets affected in the District Summary. at most you can tell that
 		the "overall %" was affected by 0.1% (from 65.1% to 64.9%) while "passing math & reading %" stayed the same only the decimals changed. Please note the image 	attached of the District Summary chart
 		
-	* [District_summary_changes](Resources/District_summary_changes.PNG)
+	* [District_Summary](Resources/District_summary_changes.PNG)
 		
 - How is the school summary affected?
 	* The school summarry is only affected in the "Thomas High School" row. we can see that removing the 9th grader grades
 		- The "overall passing" dropped form 91% to 65%
 		- the "% passing reading" dropped form 97% to 67%
 		- the "% passing reading" dropped form 93% to 83%
+		
+	* [Per School Summary](Resources/per_school_summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 	* Thomas High School performance remained the same in relative to other schools.
@@ -29,12 +31,17 @@ The results for our School District dataframe after removing the 9th Grade grade
 	* Math and reading scores were not affected as removing 9th graders did not change the data.
 		- we can see by the comparison made on the math and reading scores from the previous and current dataframes dont change
 		besides not having the 9th grade data.
+		[Math & Reading Scores](Resources/math_reading_scores.PNG)
+		
 	* Scores by school spending
 		- Based of the data the Scores by school spending do not seem to change.
+		- [Per School Summary](Resources/per_school_summary.png)
 	* Scores by school size
 		-Based of the data the Scores by school size do not seem to change.
+		- [Per School Summary](Resources/per_school_summary.png)
 	* Scores by school type
 		-Based of the data the Scores by school type do not seem to change.
+		- [Per School Summary](Resources/per_school_summary.png)
 
 	
 ## Summary
