@@ -31,17 +31,17 @@ The results for our School District dataframe after removing the 9th Grade grade
 	* Math and reading scores were not affected as removing 9th graders did not change the data.
 		- we can see by the comparison made on the math and reading scores from the previous and current dataframes dont change
 		besides not having the 9th grade data.
-		[Math & Reading Scores](Resources/math_reading_scores.PNG)
+		- [Math & Reading Scores](Resources/math_reading_scores.PNG)
 		
 	* Scores by school spending
 		- Based of the data the Scores by school spending do not seem to change.
-		- [Per School Summary](Resources/per_school_summary.png)
+		- [Scores by School Spending Comparison](Resources/spending_school_comp.png)
 	* Scores by school size
 		-Based of the data the Scores by school size do not seem to change.
-		- [Per School Summary](Resources/per_school_summary.png)
+		- [Scores by School Size Comparison](Resources/spending_school_size_comp.png)
 	* Scores by school type
 		-Based of the data the Scores by school type do not seem to change.
-		- [Per School Summary](Resources/per_school_summary.png)
+		- [Scores by School Type Comparison](Resources/spending_school_type_comp.png)
 
 	
 ## Summary
